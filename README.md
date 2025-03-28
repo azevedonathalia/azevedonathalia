@@ -1,16 +1,33 @@
-## Hi there 👋
+#  Nathalia Azevedo
 
-<!--
-**azevedonathalia/azevedonathalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Science Student`**
 
-Here are some ideas to get you started:
+My name is Nathalia Azevedo. I'm 28 years old, married, and a mother to a 9-month-old baby. I have a degree in Biomedicine and currently work in Research and Development at . However, I'm transitioning my career to Data Science and I'm excited to connect, collaborate, and exchange experiences!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+### Languages and Technologies
+
+
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
